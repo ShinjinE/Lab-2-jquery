@@ -1,0 +1,19 @@
+body {
+    background-image: url("gerson.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#mainText {
+    position: relative;
+       left: 10%;
+       margin: 30px 0px 0px 0px;
+       background-color: rgb(130, 105, 91);
+       width: 30%;
+       height: 60;
+       color: white;
+       padding: 10px;
+       text-align: center;
+       border-style: ridge;
+}
+
